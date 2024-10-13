@@ -1,0 +1,56 @@
+AC - Acre
+214
+AL - Alagoas
+125
+AP - Amapá
+3
+AM - Amazonas
+245
+CE - Ceará
+93
+DF - Distrito Federal
+1925
+MA - Maranhão
+1095
+MG - Minas Gerais
+21
+PA - Pará
+132
+PB - Paraíba
+161
+PE - Pernambuco
+1161
+PI - Piauí
+83
+RN - Rio Grande do Norte
+803
+RO - Rondônia
+304
+RR - Roraima
+170
+SC - Santa Catarina
+11
+TO - Tocantins
+109
+ES - Espírito Santo
+1627
+GO - Goiás
+911
+PR - Paraná
+3225
+SE - Sergipe
+1495
+RJ - Rio de Janeiro
+2462
+BA - Bahia
+3258
+MS - Mato Grosso do Sul
+5609
+MT - Mato Grosso
+5815
+RS - Rio Grande do Sul
+10404
+SP - São Paulo
+8330
+Nacional
+60685
